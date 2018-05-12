@@ -1,0 +1,40 @@
+_repo: The-Pearl-of-Orr-s-Island--A-Story-of-the-Coast-of-Maine_31522
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, Harriet Elizabeth Beecher
+    - Crowfield, Christopher
+    - Stowe, H. B. (Harriet Beecher)
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: '"The rural tranquillity of the lonely, pine-girthed shores of the Maine
+  coast is the setting for this beautiful novel of conflicting aspirations written
+  by one of the most prolific and influential writers in American history. Here is
+  the heartwarming story of a young girl''s struggle to belong and fit in, in the
+  face of adversity, and of her upbringing among strong women, grumpy fishermen, annoying
+  gossips, sea captains, and the dreamlike, temptestuous landscape of Orr''s Island."
+  --Google books.'
+gutenberg_issued: '2010-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PS'
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Maine -- Fiction'
+title: 'The Pearl of Orr''s Island: A Story of the Coast of Maine'
+url: http://www.gutenberg.org/ebooks/31522
